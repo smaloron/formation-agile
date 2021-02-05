@@ -104,3 +104,12 @@
 - [Tests unitaire pourquoi](https://www.youtube.com/watch?v=FqCLf5hJuzk)
 - [Les tests BDD TDD...](https://www.youtube.com/watch?v=jxBmKvS7lAo)
 - [Software craftmanship](https://www.youtube.com/watch?v=yezJw9uRIyg)
+
+  
+
+- [Découpage de code](https://www.youtube.com/watch?v=x2sOxrwpSVU)
+- [Clean code](https://www.youtube.com/watch?v=2wgFQCulPPA)
+- [Coder proprement](https://www.youtube.com/watch?v=6OeGG_g54zo)
+- [Revue de code](https://www.youtube.com/watch?v=Jovb-rR7g9g&t=1396s)
+- [Les risques de la revue de code (humour)](https://www.youtube.com/watch?v=IN8DeMfbWVs)
+
